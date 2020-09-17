@@ -9,8 +9,6 @@ The different csv files can be downloaded through tose links :
 - http://data.insideairbnb.com/france/ile-de-france/paris/2019-11-07/visualisations/listings.csv
 - http://data.insideairbnb.com/france/ile-de-france/paris/2019-11-07/visualisations/neighbourhoods.csv
 
---------
-
 ## App preview 
 
 ![](ezgif.com-optimize.gif)
